@@ -4,4 +4,4 @@ Course Description: Software development tools and practices; debugging and test
 CS211 - Programming Practicum - Taken Fall 2024
 
 
-The class had 7 programming projects in C and C++.
+The class had 7 programming projects, the first 5 in C and the last 2 in C++.
